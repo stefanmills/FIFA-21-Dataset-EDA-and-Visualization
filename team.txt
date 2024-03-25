@@ -1,0 +1,698 @@
+team
+Aldosivi
+Argentinos Juniors
+Arsenal de Sarandí
+AtlÃ©tico TucumÃ¡n
+Banfield
+Buenos Aires **
+Central CÃ³rdoba
+ColÃ³n
+Defensa y Justicia
+Estudiantes
+Gimnasia
+Godoy Cruz
+HuracÃ¡n
+Independiente del Valle
+LanÃºs
+Newell's
+NÃºÃ±ez **
+Patronato
+Racing Club
+Rosario Central
+San Lorenzo
+Talleres
+UniÃ³n
+VÃ©lez Sarsfield
+Adelaide United
+Brisbane Roar
+Central Coast
+Macarthur FC
+Melb. Victory
+Melbourne City
+Newcastle Jets
+Perth Glory
+Sydney FC
+Well. Phoenix
+Western United
+WS Wanderers
+Admira Wacker
+FK Austria Wien
+LASK
+RB Salzburg
+SCR Altach
+SK Rapid Wien
+SK Sturm Graz
+SKN St. PÃ¶lten
+SV Ried
+TSV Hartberg
+Wolfsberger AC
+WSG Tirol
+K Beerschot VA
+Cercle Brugge
+Club Brugge
+Excel Mouscron
+KAA Gent
+KAS Eupen
+KRC Genk
+KV Kortrijk
+KV Mechelen
+KV Oostende
+OH Leuven
+Royal Antwerp FC
+RSC Anderlecht
+Sint-Truiden
+Sp. Charleroi
+Standard LiÃ¨ge
+Waasl. Beveren
+Zulte Waregem
+Club Athletico Paranaense
+AtlÃ©tico Mineiro
+AtlÃ©tico-GO
+Bahia
+Botafogo
+CearÃ¡ SC
+Coritiba
+Fluminense
+Fortaleza
+GoiÃ¡s
+GrÃªmio
+Internacional
+OceÃ¢nico FC**
+Santos
+Beijing Guoan
+Chongqing SWM
+Dalian Pro
+Guangzhou
+Guangzhou R&F
+Hebei CFFC
+Henan Jianye
+Jiangsu Suning
+Qingdao Huanghai
+Shandong Luneng
+Shanghai Shenhua
+Shanghai SIPG
+Shenzhen Kaisa
+Shijiazhuang
+Tianjin TEDA
+Wuhan Zall
+Aalborg BK
+Aarhus AGF
+AC Horsens
+BrÃ¸ndby IF
+FC KÃ¸benhavn
+FC Midtjylland
+FC NordsjÃ¦lland
+Lyngby BK
+Odense BK
+Randers FC
+SÃ¸nderjyskE
+Vejle Boldklub
+Arsenal
+Aston Villa
+Brighton
+Burnley
+Chelsea
+Crystal Palace
+Everton
+Fulham
+Leeds United
+Leicester City
+Liverpool
+Manchester City
+Manchester Utd
+Newcastle Utd
+Sheffield Utd
+Southampton
+Spurs
+West Brom
+West Ham
+Wolves
+AFC Bournemouth
+Barnsley
+Birmingham City
+Blackburn Rovers
+Brentford
+Bristol City
+Cardiff City
+Coventry City
+Derby County
+Huddersfield
+Luton Town
+Middlesbrough
+Millwall
+Norwich
+Nott'm Forest
+Preston
+QPR
+Reading
+Rotherham Utd
+Sheffield Wed
+Stoke City
+Swansea City
+Watford
+Wycombe
+Accrington
+AFC Wimbledon
+Blackpool
+Bristol Rovers
+Burton Albion
+Charlton Ath
+Crewe Alexandra
+Doncaster
+Fleetwood Town
+Gillingham
+Hull City
+Ipswich
+Lincoln City
+MK Dons
+Northampton
+Oxford United
+Peterborough
+Plymouth Argyle
+Portsmouth
+Rochdale
+Shrewsbury
+Sunderland
+Swindon Town
+Wigan Athletic
+Barrow
+Bolton
+Bradford City
+Cambridge Utd
+Carlisle United
+Cheltenham Town
+Colchester
+Crawley Town
+Exeter City
+Forest Green
+Grimsby Town
+Harrogate Town
+Leyton Orient
+Mansfield Town
+Morecambe
+Newport County
+Oldham Athletic
+Port Vale
+Salford City
+Scunthorpe Utd
+Southend United
+Stevenage
+Tranmere Rovers
+Walsall
+Angers SCO
+AS Monaco
+ASSE
+Bordeaux
+Dijon FCO
+FC Lorient
+FC Metz
+FC Nantes
+LOSC
+Montpellier
+NÃ®mes Olympique
+OGC Nice
+OL
+OM
+Paris SG
+RC Lens
+Rennes
+Stade Brestois 29
+Stade de Reims
+Strasbourg
+AC Ajaccio
+AJ Auxerre
+Amiens SC
+ChÃ¢teauroux
+Clermont
+EA Guingamp
+FC Chambly
+FCSM
+Grenoble
+Havre AC
+Nancy
+Niort
+Paris FC
+Pau FC
+Rodez AF
+SM Caen
+Toulouse FC
+Troyes
+USL Dunkerque
+VAFC
+1. FC KÃ¶ln
+1. FSV Mainz 05
+Bielefeld
+Dortmund
+FC Augsburg
+FC Bayern
+FC Schalke 04
+Frankfurt
+Hertha Berlin
+Leverkusen
+M'gladbach
+RB Leipzig
+SC Freiburg
+TSG Hoffenheim
+Union Berlin
+VfB Stuttgart
+VfL Wolfsburg
+Werder Bremen
+1. FC Heidenheim
+1. FC NÃ¼rnberg
+Braunschweig
+DÃ¼sseldorf
+Erzgebirge Aue
+FC St. Pauli
+Greuther FÃ¼rth
+Hamburger SV
+Hannover 96
+Holstein Kiel
+Jahn Regensburg
+Karlsruher SC
+SC Paderborn 07
+SV Darmstadt 98
+SV Sandhausen
+VfL Bochum
+VfL OsnabrÃ¼ck
+WÃ¼rzburg
+1. FC Magdeburg
+1860 MÃ¼nchen
+Dynamo Dresden
+FC Bayern II
+FC Ingolstadt
+FSV Zwickau
+Haching
+Hallescher FC
+Hansa Rostock
+Kaiserslautern
+KFC Uerdingen
+MSV Duisburg
+SaarbrÃ¼cken
+SC Verl
+SV Meppen
+SV Waldhof
+SVWW
+TÃ¼rkgÃ¼cÃ¼
+VfB LÃ¼beck
+Viktoria KÃ¶ln
+Bohemian FC
+Cork City
+Derry City
+Dundalk
+Finn Harps
+Shamrock Rovers
+Shelbourne
+Sligo Rovers
+St. Pats
+Waterford FC
+Atalanta
+Benevento
+Bologna
+Cagliari
+Crotone**
+Fiorentina
+Genoa
+Hellas Verona
+Inter
+La Spezia**
+Lazio
+Milan
+Napoli
+Parma
+Piemonte Calcio**
+Roma FC**
+Sampdoria
+Sassuolo
+Torino
+Udinese
+Cerezo Osaka
+F.C. Tokyo
+Gamba Osaka
+H.Consa.Sapporo
+Kashima Antlers
+Kashima Reysol
+Kawasaki-F
+Nagoya Grampus
+Oita Trinita
+S-Hiroshima
+Sagan Tosu
+Shimizu S-Pulse
+Shonan Bellmare
+Urawa Reds
+Vegalta Sendai
+Vissel Kobe
+Yokohama Fï½¥M
+Yokohama FC
+Busan IPark
+Daegu FC
+FC Seoul
+Gangwon FC
+GwangJu FC
+Incheon United
+Jeonbuk Hyundai
+Pohang Steelers
+Sangju Sangmu
+Seongnam FC
+Suwon Samsung
+Ulsan Hyundai
+AmÃ©rica
+Atlas
+AtlÃ©tico de San Luis
+Cruz Azul
+FC JuÃ¡rez
+Guadalajara
+LeÃ³n
+MazatlÃ¡n FC
+Necaxa
+Pachuca
+Puebla
+Pumas
+QuerÃ©taro
+Rayados
+Santos Laguna
+Tigres
+Tijuana
+Toluca
+ADO Den Haag
+Ajax
+AZ
+FC Emmen
+FC Groningen
+FC Twente
+FC Utrecht
+Feyenoord
+Fortuna Sittard
+Heracles Almelo
+PEC Zwolle
+PSV
+RKC Waalwijk
+SC Heerenveen
+Sparta Rotterdam
+Vitesse
+VVV-Venlo
+Willem II
+Aalesunds FK
+FK BodÃ¸/Glimt
+FK Haugesund
+IK Start
+Kristiansund
+MjÃ¸ndalen IF
+Molde FK
+Odds BK
+Rosenborg BK
+Sandefjord
+Sarpsborg 08
+SK Brann
+StabÃ¦k Fotball
+StrÃ¸msgodset IF
+VÃ¥lerenga Fotball
+Viking FK
+Cracovia
+GÃ³rnik Zabrze
+Jagiellonia
+Lech PoznaÅ„
+Lechia GdaÅ„sk
+Legia Warszawa
+PGE Stal Mielec
+Piast Gliwice
+Podbeskidzie
+PogoÅ„ Szczecin
+RakÃ³w CzÄ™stochowa
+ÅšlÄ…sk WrocÅ‚aw
+Warta PoznaÅ„
+WisÅ‚a KrakÃ³w
+WisÅ‚a PÅ‚ock
+ZagÅ‚Ä™bie Lubin
+Belenenses
+Boavista FC
+CD Tondela
+Farense
+FC FamalicÃ£o
+FC Porto
+Gil Vicente
+MarÃ­timo
+Moreirense FC
+CD Nacional
+PaÃ§os Ferreira
+Portimonense SC
+Rio Ave FC
+Santa Clara
+SC Braga
+SL Benfica
+Sporting CP
+V. GuimarÃ£es
+AC Monza
+AEK Athens
+Al Ain FC
+Brescia
+Chievo Verona
+CSKA Moscow
+Dinamo Zagreb
+Dynamo Kyiv
+Empoli
+HJK Helsinki
+Kaizer Chiefs
+Lecce
+Lokomotiv Moscow
+Olympiacos CFP
+Orlando Pirates
+Panathinaikos
+PAOK
+Shakhtar Donetsk
+Slavia Praha
+Sparta Praha
+Spartak Moscow
+SPAL
+Viktoria PlzeÅˆ
+Soccer Aid
+adidas All-Star
+MLS All Stars
+Academica
+Astra Giurgiu
+CFR 1907 Cluj
+Chindia
+FC ArgeÈ™
+FC BotoÅŸani
+FC Dinamo 1948
+FC Hermannstadt
+FC Viitorul
+FC Voluntari
+FCSB
+Gaz Metan MediaÈ™
+Politehnica IaÅŸi
+Sepsi OSK
+Univ. Craiova
+UTA Arad
+Abha Club
+Al Adalah
+Al Ahli
+Al Faisaly
+Al Fateh
+Al Fayha
+Al Hazem
+Al Hilal
+Al Ittihad
+Al Nassr
+Al Raed
+Al Shabab
+Al Taawoun
+Al Wehda
+Damac FC
+Ettifaq FC
+Aberdeen
+Celtic
+Dundee United
+Hamilton
+Hibernian
+Kilmarnock
+Livingston
+Motherwell
+Rangers
+Ross County
+St. Johnstone
+St. Mirren
+Athletic Club
+AtlÃ©tico de Madrid
+CA Osasuna
+CÃ¡diz CF
+D. AlavÃ©s
+Elche CF
+FC Barcelona
+Getafe CF
+Granada CF
+Levante UD
+R. Valladolid CF
+RC Celta
+Real Betis
+Real Madrid
+Real Sociedad
+SD Eibar
+SD Huesca
+Sevilla FC
+Valencia CF
+Villarreal CF
+AD AlcorcÃ³n
+Albacete BP
+CD CastellÃ³n
+CD LeganÃ©s
+CD Lugo
+CD MirandÃ©s
+CD Tenerife
+CE Sabadell
+CF Fuenlabrada
+FC Cartagena
+Girona FC
+MÃ¡laga CF
+R. Oviedo
+R. Sporting
+R. Zaragoza
+Rayo Vallecano
+RCD Espanyol
+RCD Mallorca
+SD Ponferradina
+UD AlmerÃ­a
+UD Las Palmas
+UD LogroÃ±Ã©s
+AIK
+BK HÃ¤cken
+DjurgÃ¥rdens IF
+Falkenbergs FF
+Hammarby IF
+Helsingborgs IF
+IF Elfsborg
+IFK GÃ¶teborg
+IFK NorrkÃ¶ping
+IK Sirius
+Kalmar FF
+MalmÃ¶ FF
+MjÃ¤llby AIF
+Ã–rebro SK
+Ã–stersunds FK
+BSC Young Boys
+FC Basel 1893
+FC Lugano
+FC Luzern
+FC Sion
+FC St. Gallen
+FC Vaduz
+FC ZÃ¼rich
+Lausanne-Sport
+Servette FC
+Alanyaspor
+Antalyaspor
+BaÅŸakÅŸehir
+BB Erzurumspor
+BeÅŸiktaÅŸ
+Ã‡aykur Rizespor
+Denizlispor
+FenerbahÃ§e
+Galatasaray
+Gaziantep
+GenÃ§lerbirliÄŸi
+GÃ¶ztepe
+Hatayspor
+KaragÃ¼mrÃ¼k SK
+KasimpaÅŸa
+Kayserispor
+Konyaspor
+MKE AnkaragÃ¼cÃ¼
+Sivasspor
+Trabzonspor
+Yeni Malatyaspor
+Atlanta United
+Chicago Fire
+Colorado Rapids
+Columbus Crew SC
+D.C. United
+FC Cincinnati
+FC Dallas
+Houston Dynamo
+Impact MontrÃ©al
+Inter Miami CF
+LA Galaxy
+LAFC
+Minnesota United
+Nashville SC
+New England
+New York City FC
+NY Red Bulls
+Orlando City
+Philadelphia
+Portland Timbers
+Real Salt Lake
+Seattle Sounders
+SJ Earthquakes
+Sporting KC
+Toronto FC
+Whitecaps FC
+Alianza Lima
+AmÃ©rica de Cali
+Barcelona SC
+Binacional
+Boca Juniors
+BolÃ­var
+Caracas F.C.
+Colo-Colo
+DelfÃ­n S.C.
+Est. de MÃ©rida
+Flamengo
+GuaranÃ­
+Indep. MedellÃ­n
+Junior
+LDU Quito
+Libertad
+Nacional de Montevideo
+Olimpia
+Palmeiras
+PeÃ±arol
+River Plate
+SÃ£o Paulo
+Tigre
+Uni. CatÃ³lica
+Wilstermann
+Always Ready
+Aragua FC
+Atlético Nacional
+AtlÃ©tico Grau
+Aucas
+Audax Italiano
+Blooming
+Club Nacional
+Coquimbo Unido
+CS Emelec
+Cusco FC
+Deportivo Cali
+Deportivo Pasto
+El Nacional
+FBC Melgar
+FÃ©nix
+Huachipato FC
+Liverpool Fútbol Club
+Llaneros
+LuqueÃ±o
+Millonarios
+Mineros
+Nacional Potosí
+O. Petrolero
+Plaza Colonia
+River Plate Montevideo
+Sol de AmÃ©rica
+Sport Huancayo
+U. CatÃ³lica
+UniÃ³n La Calera
+Vasco da Gama
+Zamora FC
+
+
+
+
+
+
+
+
+
+
+
+
+
+

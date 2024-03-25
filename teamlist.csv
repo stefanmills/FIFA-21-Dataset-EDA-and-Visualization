@@ -1,0 +1,688 @@
+team,league,team_country,team_continent
+FC Barcelona,LaLiga Santander,Spain,Europe
+Juventus,Serie A TIM,Italy,Europe
+Atlético Madrid,LaLiga Santander,Spain,Europe
+Manchester City,Premier League,England,Europe
+Paris Saint-Germain,Ligue 1,France,Europe
+FC Bayern München,Bundesliga,Germany,Europe
+Liverpool,Premier League,England,Europe
+Real Madrid,LaLiga Santander,Spain,Europe
+Chelsea,Premier League,England,Europe
+Tottenham Hotspur,Premier League,England,Europe
+Napoli,Serie A TIM,Italy,Europe
+Inter,Serie A TIM,Italy,Europe
+Borussia Dortmund,Bundesliga,Germany,Europe
+Manchester United,Premier League,England,Europe
+Lazio,Serie A TIM,Italy,Europe
+Arsenal,Premier League,England,Europe
+Leicester City,Premier League,England,Europe
+Borussia Mönchengladbach,Bundesliga,Germany,Europe
+Real Sociedad,LaLiga Santander,Spain,Europe
+Atalanta,Serie A TIM,Italy,Europe
+Milan,Serie A TIM,Italy,Europe
+Olympique Lyonnais,Ligue 1,France,Europe
+Villarreal CF,LaLiga Santander,Spain,Europe
+RB Leipzig,Bundesliga,Germany,Europe
+Cagliari,Serie A TIM,Italy,Europe
+Ajax,Eredivisie,Netherlands,Europe
+SL Benfica,Primeira Liga,Portugal,Europe
+Wolverhampton Wanderers,Premier League,England,Europe
+Everton,Premier League,England,Europe
+AS Monaco,Ligue 1,France,Europe
+FC Porto,Primeira Liga,Portugal,Europe
+RC Celta,LaLiga Santander,Spain,Europe
+Fiorentina,Serie A TIM,Italy,Europe
+Torino,Serie A TIM,Italy,Europe
+Sevilla FC,LaLiga Santander,Spain,Europe
+Grêmio,Campeonato Brasileiro Série A,Brazil,South America
+Roma,Serie A TIM,Italy,Europe
+Newcastle United,Premier League,England,Europe
+Real Betis,LaLiga Santander,Spain,Europe
+Valencia CF,LaLiga Santander,Spain,Europe
+Eintracht Frankfurt,Bundesliga,Germany,Europe
+Medipol Başakşehir FK,Süper Lig,Turkey,Europe
+Bayer 04 Leverkusen,Bundesliga,Germany,Europe
+Crystal Palace,Premier League,England,Europe
+Levante UD,LaLiga Santander,Spain,Europe
+VfL Wolfsburg,Bundesliga,Germany,Europe
+Athletic Club de Bilbao,LaLiga Santander,Spain,Europe
+Shanghai SIPG FC,Chinese Super League,China,Asia
+Guangzhou Evergrande Taobao FC,Chinese Super League,China,Asia
+Al Shabab,Saudi Professional League,Saudi Arabia,Asia
+Inter Miami,MLS,USA,North America
+Los Angeles FC,MLS,USA,North America
+Beijing Sinobo Guoan FC,Chinese Super League,China,Asia
+Olympique de Marseille,Ligue 1,France,Europe
+SV Werder Bremen,Bundesliga,Germany,Europe
+Getafe CF,LaLiga Santander,Spain,Europe
+TSG 1899 Hoffenheim,Bundesliga,Germany,Europe
+LOSC Lille,Ligue 1,France,Europe
+Deportivo Alavés,LaLiga Santander,Spain,Europe
+Burnley,Premier League,England,Europe
+Leeds United,Premier League,England,Europe
+Genoa,Serie A TIM,Italy,Europe
+PFC CSKA Moscow,Russian Premier League,Russia,Europe
+Fulham,Premier League,England,Europe
+Galatasaray SK,Süper Lig,Turkey,Europe
+West Ham United,Premier League,England,Europe
+Flamengo,Campeonato Brasileiro Série A,Brazil,South America
+Palmeiras,Campeonato Brasileiro Série A,Brazil,South America
+Brazil,International,International,International
+Atlético Mineiro,Campeonato Brasileiro Série A,Brazil,South America
+São Paulo,Campeonato Brasileiro Série A,Brazil,South America
+SD Eibar,LaLiga Santander,Spain,Europe
+River Plate,Argentine Primera División,Argentina,South America
+OGC Nice,Ligue 1,France,Europe
+Atlanta United,MLS,USA,North America
+Boca Juniors,Argentine Primera División,Argentina,South America
+PSV,Eredivisie,Netherlands,Europe
+Shakhtar Donetsk,Ukrainian Premier League,Ukraine,Europe
+Feyenoord,Eredivisie,Netherlands,Europe
+Real Valladolid CF,LaLiga Santander,Spain,Europe
+Sporting CP,Primeira Liga,Portugal,Europe
+1. FC Union Berlin,Bundesliga,Germany,Europe
+Club Brugge KV,Belgian Pro League,Belgium,Europe
+Dalian YiFang FC,Chinese Super League,China,Asia
+AS Saint-Étienne,Ligue 1,France,Europe
+Sassuolo,Serie A TIM,Italy,Europe
+Tigres U.A.N.L.,Liga MX,Mexico,North America
+Vissel Kobe,J1 League,Japan,Asia
+Ecuador,International,International,International
+Uruguay,International,International,International
+Dynamo Kyiv,Ukrainian Premier League,Ukraine,Europe
+Dinamo Zagreb,Croatian First Football League,Croatia,Europe
+Fluminense,Campeonato Brasileiro Série A,Brazil,South America
+Udinese,Serie A TIM,Italy,Europe
+Stade Rennais FC,Ligue 1,France,Europe
+Aston Villa,Premier League,England,Europe
+Brighton & Hove Albion,Premier League,England,Europe
+Lokomotiv Moscow,Russian Premier League,Russia,Europe
+Southampton,Premier League,England,Europe
+Hebei China Fortune FC,Chinese Super League,China,Asia
+Beşiktaş JK,Süper Lig,Turkey,Europe
+Fenerbahçe SK,Süper Lig,Turkey,Europe
+Al Hilal,Saudi Professional League,Saudi Arabia,Asia
+West Bromwich Albion,Premier League,England,Europe
+Jiangsu Suning FC,Chinese Super League,China,Asia
+Guangzhou R&F FC,Chinese Super League,China,Asia
+Sampdoria,Serie A TIM,Italy,Europe
+Orlando City SC,MLS,USA,North America
+FC Groningen,Eredivisie,Netherlands,Europe
+Stade de Reims,Ligue 1,France,Europe
+Santos,Campeonato Brasileiro Série A,Brazil,South America
+Internacional,Campeonato Brasileiro Série A,Brazil,South America
+Coritiba,Campeonato Brasileiro Série A,Brazil,South America
+CA Osasuna,LaLiga Santander,Spain,Europe
+Sheffield United,Premier League,England,Europe
+LA Galaxy,MLS,USA,North America
+Al Nassr,Saudi Professional League,Saudi Arabia,Asia
+SC Freiburg,Bundesliga,Germany,Europe
+SC Braga,Primeira Liga,Portugal,Europe
+Colombia,International,International,International
+Olympiacos CFP,Super League Greece,Greece,Europe
+Granada CF,LaLiga Santander,Spain,Europe
+FC Schalke 04,Bundesliga,Germany,Europe
+RC Strasbourg Alsace,Ligue 1,France,Europe
+Toronto FC,MLS,Canada,North America
+Hertha BSC,Bundesliga,Germany,Europe
+AZ Alkmaar,Eredivisie,Netherlands,Europe
+Seattle Sounders FC,MLS,USA,North America
+Montpellier HSC,Ligue 1,France,Europe
+Shanghai Greenland Shenhua FC,Chinese Super League,China,Asia
+Russia,International,International,International
+Hamburger SV,2. Bundesliga,Germany,Europe
+Girona FC,LaLiga SmartBank,Spain,Europe
+Racing Club,Argentine Primera División,Argentina,South America
+Portland Timbers,MLS,USA,North America
+FC Girondins de Bordeaux,Ligue 1,France,Europe
+Watford,EFL Championship,England,Europe
+Estudiantes de La Plata,Argentine Primera División,Argentina,South America
+Club América,Liga MX,Mexico,North America
+Vitória Guimarães,Primeira Liga,Portugal,Europe
+SK Slavia Praha,Czech First League,Czech Republic,Europe
+Trabzonspor,Süper Lig,Turkey,Europe
+RCD Espanyol,LaLiga SmartBank,Spain,Europe
+FC Nantes,Ligue 1,France,Europe
+Angers SCO,Ligue 1,France,Europe
+Cruz Azul,Liga MX,Mexico,North America
+Club León,Liga MX,Mexico,North America
+Spartak Moscow,Russian Premier League,Russia,Europe
+Sivasspor,Süper Lig,Turkey,Europe
+Elche CF,La Liga,Spain,Europe
+FC Augsburg,Bundesliga,Germany,Europe
+BSC Young Boys,Swiss Super League,Switzerland,Europe
+Wuhan Zall,Chinese Super League,China,Asia
+Monterrey,Liga MX,Mexico,North America
+Club Atlético Lanús,Primera División,Argentina,South America
+Royal Antwerp FC,Belgian Pro League,Belgium,Europe
+San Lorenzo de Almagro,Primera División,Argentina,South America
+AC Monza,Serie B,Italy,Europe
+Parma,Serie B,Italy,Europe
+SD Huesca,La Liga,Spain,Europe
+CD Leganés,La Liga 2,Spain,Europe
+Kayserispor,Süper Lig,Turkey,Europe
+Tianjin TEDA FC,Chinese Super League,China,Asia
+RSC Anderlecht,Belgian Pro League,Belgium,Europe
+Hellas Verona,Serie A,Italy,Europe
+Derby County,EFL Championship,England,Europe
+Birmingham City,EFL Championship,England,Europe
+Benevento,Serie B,Italy,Europe
+Vélez Sarsfield,Primera División,Argentina,South America
+Stade Brestois 29,Ligue 1,France,Europe
+Bournemouth,EFL Championship,England,Europe
+Alanyaspor,Süper Lig,Turkey,Europe
+Bologna,Serie A,Italy,Europe
+Amiens SC,Ligue 2,France,Europe
+Club Atlas,Liga MX,Mexico,North America
+1. FC Köln,Bundesliga 2,Germany,Europe
+Celtic,Scottish Premiership,Scotland,Europe
+Shijiazhuang Ever Bright F.C.,Chinese Super League,China,Asia
+Norwich City,EFL Championship,England,Europe
+No Team,Unknown,Unknown,Unknown
+Al Wehda,Saudi Professional League,Saudi Arabia,Asia
+Al Ahli,Saudi Professional League,Saudi Arabia,Asia
+Brentford,EFL Championship,England,Europe
+Goiás,Campeonato Brasileiro Série A,Brazil,South America
+Club Tijuana,Liga MX,Mexico,North America
+Universidad Católica,Primera División,Chile,South America
+Fatih Karagümrük S.K.,Süper Lig,Turkey,Europe
+Independiente,Primera División,Argentina,South America
+Qingdao Huanghai F.C.,Chinese Super League,China,Asia
+Racing Club de Lens,Ligue 1,France,Europe
+Cádiz CF,La Liga,Spain,Europe
+Montreal Impact,MLS,Canada,North America
+UD Almería,La Liga 2,Spain,Europe
+FC Utrecht,Eredivisie,Netherlands,Europe
+KAA Gent,Belgian Pro League,Belgium,Europe
+Chongqing Dangdai Lifan FC SWM Team,Chinese Super League,China,Asia
+New England Revolution,MLS,United States,North America
+AEK Athens,Super League Greece,Greece,Europe
+Nacional de Montevideo,Primera División,Uruguay,South America
+FC Red Bull Salzburg,Austrian Bundesliga,Austria,Europe
+Nîmes Olympique,Ligue 1,France,Europe
+SPAL,Serie B,Italy,Europe
+Colo-Colo,Primera División,Chile,South America
+Santos Laguna,Liga MX,Mexico,North America
+Al Ain FC,UAE Pro League,United Arab Emirates,Asia
+Fortaleza,Campeonato Brasileiro Série A,Brazil,South America
+Spezia,Serie A,Italy,Europe
+Perth Glory,A-League,Australia,Oceania
+1. FSV Mainz 05,Bundesliga,Germany,Europe
+Vasco da Gama,Campeonato Brasileiro Série B,Brazil,South America
+FC Midtjylland,Danish Superliga,Denmark,Europe
+Çaykur Rizespor,Süper Lig,Turkey,Europe
+FC Basel 1893,Swiss Super League,Switzerland,Europe
+Deportivo Toluca,Liga MX,Mexico,North America
+FC København,Danish Superliga,Denmark,Europe
+Godoy Cruz,Primera División,Argentina,South America
+Olimpia Asunción,Primera División,Paraguay,South America
+Shenzhen FC,Chinese Super League,China,Asia
+Rio Ave FC,Primeira Liga,Portugal,Europe
+Aalborg BK,Danish Superliga,Denmark,Europe
+FC Metz,Ligue 1,France,Europe
+DSC Arminia Bielefeld,Bundesliga,Germany,Europe
+RCD Mallorca,La Liga 2,Spain,Europe
+Rosenborg BK,Eliteserien,Norway,Europe
+Club Athletico Paranaense,Campeonato Brasileiro Série A,Brazil,South America
+Botafogo,Campeonato Brasileiro Série A,Brazil,South America
+Pachuca,Liga MX,Mexico,North America
+KRC Genk,Belgian Pro League,Belgium,Europe
+Swansea City,EFL Championship,England,Europe
+En Avant de Guingamp,Ligue 2,France,Europe
+Lecce,Serie B,Italy,Europe
+Junior FC,Categoría Primera A,Colombia,South America
+Columbus Crew SC,MLS,United States,North America
+Stade Malherbe Caen,Ligue 2,France,Europe
+Hatayspor,Süper Lig,Turkey,Europe
+Real Zaragoza,Segunda División,Spain,Europe
+Rangers FC,Scottish Premiership,Scotland,Europe
+Sparta Praha,Czech First League,Czech Republic,Europe
+Shandong Luneng TaiShan FC,Chinese Super League,China,Asia
+Moreirense FC,Primeira Liga,Portugal,Europe
+VfB Stuttgart,Bundesliga,Germany,Europe
+Atlético Clube Goianiense,Campeonato Brasileiro Série A,Brazil,South America
+Kaizer Chiefs,South African Premier Division,South Africa,Africa
+Atiker Konyaspor,Süper Lig,Turkey,Europe
+Deportivo Cali,Categoría Primera A,Colombia,South America
+Antalyaspor,Süper Lig,Turkey,Europe
+Newell's Old Boys,Primera División,Argentina,South America
+Chicago Fire,MLS,United States,North America
+FC Seoul,K League 1,South Korea,Asia
+Puebla FC,Liga MX,Mexico,North America
+Fortuna Düsseldorf,2. Bundesliga,Germany,Europe
+Toulouse Football Club,Ligue 2,France,Europe
+Henan Jianye FC,Chinese Super League,China,Asia
+Astra Giurgiu,Liga I,Romania,Europe
+Bahia,Campeonato Brasileiro Série A,Brazil,South America
+Nottingham Forest,EFL Championship,England,Europe
+Famalicão,Primeira Liga,Portugal,Europe
+Western United FC,A-League,Australia,Oceania
+New York City FC,MLS,United States,North America
+Peñarol,Primera División,Uruguay,South America
+DC United,MLS,United States,North America
+Minnesota United FC,MLS,United States,North America
+Argentinos Juniors,Primera División,Argentina,South America
+U.N.A.M.,Liga MX,Mexico,North America
+Independiente del Valle,Serie A,Ecuador,South America
+Philadelphia Union,MLS,United States,North America
+Malmö FF,Allsvenskan,Sweden,Europe
+Rosario Central,Primera División,Argentina,South America
+Denizlispor,Süper Lig,Turkey,Europe
+Atlético de San Luis,Liga MX,Mexico,North America
+FC Dallas,MLS,United States,North America
+Defensa y Justicia,Primera División,Argentina,South America
+Dijon FCO,Ligue 2,France,Europe
+Club Atlético Colón,Primera División,Argentina,South America
+Houston Dynamo,MLS,United States,North America
+Millwall,EFL Championship,England,Europe
+Clube Sport Marítimo,Primeira Liga,Portugal,Europe
+Sporting Kansas City,MLS,United States,North America
+Atlético Nacional,Categoría Primera A,Colombia,South America
+CD Lugo,Segunda División,Spain,Europe
+MKE Ankaragücü,Süper Lig,Turkey,Europe
+Yeni Malatyaspor,Süper Lig,Turkey,Europe
+PAOK,Greek Super League,Greece,Europe
+New York Red Bulls,MLS,United States,North America
+SC Heerenveen,Eredivisie,Netherlands,Europe
+Preston North End,EFL Championship,England,Europe
+Damac FC,Saudi Professional League,Saudi Arabia,Asia
+Daegu FC,K League 1,South Korea,Asia
+SV Sandhausen,2. Bundesliga,Germany,Europe
+Ulsan Hyundai FC,K League 1,South Korea,Asia
+Boavista FC,Primeira Liga,Portugal,Europe
+Molde FK,Eliteserien,Norway,Europe
+VfL Bochum 1848,2. Bundesliga,Germany,Europe
+Vancouver Whitecaps FC,MLS,Canada,North America
+Brescia,Serie B,Italy,Europe
+LASK Linz,Austrian Bundesliga,Austria,Europe
+Guadalajara,Liga MX,Mexico,North America
+Royal Excel Mouscron,Belgian Pro League,Belgium,Europe
+FC Luzern,Swiss Super League,Switzerland,Europe
+Real Salt Lake,MLS,United States,North America
+Panathinaikos FC,Greek Super League,Greece,Europe
+Viktoria Plzeň,Czech First League,Czech Republic,Europe
+Orlando Pirates,South African Premier Division,South Africa,Africa
+1. FC Nürnberg,2. Bundesliga,Germany,Europe
+Rayo Vallecano,La Liga 2,Spain,Europe
+Jeonbuk Hyundai Motors,K League 1,South Korea,Asia
+FC Sion,Swiss Super League,Switzerland,Europe
+Sydney FC,A-League,Australia,Oceania
+Hannover 96,2. Bundesliga,Germany,Europe
+Standard de Liège,Belgian Pro League,Belgium,Europe
+Al Ittihad,Saudi Professional League,Saudi Arabia,Asia
+Reading,EFL Championship,England,Europe
+Western Sydney Wanderers,A-League,Australia,Oceania
+Unión de Santa Fe,Primera División,Argentina,South America
+Club Libertad,Primera División,Paraguay,South America
+Real Sporting de Gijón,Segunda División,Spain,Europe
+FC Cincinnati,MLS,United States,North America
+San Jose Earthquakes,MLS,United States,North America
+FC Lorient,Ligue 1,France,Europe
+Club Guaraní,Primera División,Paraguay,South America
+Gençlerbirliği SK,Süper Lig,Turkey,Europe
+ESTAC Troyes,Ligue 2,France,Europe
+Sporting de Charleroi,Belgian Pro League,Belgium,Europe
+Wisła Kraków,Ekstraklasa,Poland,Europe
+Al Taawoun,Saudi Professional League,Saudi Arabia,Asia
+Gazişehir Gaziantep F.K.,Süper Lig,Turkey,Europe
+FK Bodø/Glimt,Eliteserien,Norway,Europe
+Blackburn Rovers,EFL Championship,England,Europe
+Kashiwa Reysol,J1 League,Japan,Asia
+Willem II,Eredivisie,Netherlands,Europe
+Vitesse,Eredivisie,Netherlands,Europe
+SønderjyskE,Superliga,Denmark,Europe
+Yokohama F. Marinos,J1 League,Japan,Asia
+Gil Vicente FC,Primeira Liga,Portugal,Europe
+FC St. Gallen,Swiss Super League,Switzerland,Europe
+Club Atlético Aldosivi,Primera División,Argentina,South America
+FC Juárez,Liga MX,Mexico,North America
+FCSB (Steaua),Liga I,Romania,Europe
+Ettifaq FC,Saudi Professional League,Saudi Arabia,Asia
+Holstein Kiel,2. Bundesliga,Germany,Europe
+KAS Eupen,Belgian Pro League,Belgium,Europe
+Göztepe SK,Süper Lig,Turkey,Europe
+Universitatea Craiova,Liga I,Romania,Europe
+CD Tondela,Primeira Liga,Portugal,Europe
+Melbourne City FC,A-League,Australia,Oceania
+Portimonense SC,Primeira Liga,Portugal,Europe
+CD Tenerife,Segunda División,Spain,Europe
+Stoke City,EFL Championship,England,Europe
+Wolfsberger AC,Austrian Bundesliga,Austria,Europe
+IFK Norrköping,Allsvenskan,Sweden,Europe
+FC Tokyo,J1 League,Japan,Asia
+Paris FC,Ligue 2,France,Europe
+Al Faisaly,Saudi Professional League,Saudi Arabia,Asia
+Independiente Medellín,Categoría Primera A,Colombia,South America
+Kasimpaşa SK,Süper Lig,Turkey,Europe
+Ceará Sporting Club,Campeonato Brasileiro Série A,Brazil,South America
+Cardiff City,EFL Championship,England,Europe
+Heracles Almelo,Eredivisie,Netherlands,Europe
+Crotone,Serie B,Italy,Europe
+América de Cali,Categoría Primera A,Colombia,South America
+River Plate Asunción,Primera División,Paraguay,South America
+Kawasaki Frontale,J1 League,Japan,Asia
+SK Rapid Wien,Austrian Bundesliga,Austria,Europe
+Club Necaxa,Liga MX,Mexico,North America
+Chievo Verona,Serie B,Italy,Europe
+Lech Poznań,Ekstraklasa,Poland,Europe
+AIK,Allsvenskan,Sweden,Europe
+Nashville SC,MLS,United States,North America
+Club Atlético Banfield,Primera División,Argentina,South America
+Legia Warszawa,Ekstraklasa,Poland,Europe
+1. FC Heidenheim 1846,2. Bundesliga,Germany,Europe
+Querétaro,Liga MX,Mexico,North America
+Os Belenenses,Primeira Liga,Portugal,Europe
+FK Austria Wien,Austrian Bundesliga,Austria,Europe
+Huddersfield Town,EFL Championship,England,Europe
+KSV Cercle Brugge,Belgian Pro League,Belgium,Europe
+LDU Quito,Serie A,Ecuador,South America
+Gamba Osaka,J1 League,Japan,Asia
+Middlesbrough,EFL Championship,England,Europe
+Servette FC,Swiss Super League,Switzerland,Europe
+Empoli,Serie B,Italy,Europe
+Dinamo Bucureşti,Liga I,Romania,Europe
+Cerezo Osaka,J1 League,Japan,Asia
+CFR Cluj,Liga I,Romania,Europe
+Real Oviedo,Segunda División,Spain,Europe
+Gimnasia y Esgrima La Plata,Primera División,Argentina,South America
+FC Emmen,Eredivisie,Netherlands,Europe
+FC Paços de Ferreira,Primeira Liga,Portugal,Europe
+Millonarios FC,Categoría Primera A,Colombia,South America
+Colorado Rapids,MLS,United States,North America
+Sheffield Wednesday,EFL Championship,England,Europe
+AD Alcorcón,Segunda División,Spain,Europe
+Sint-Truidense VV,Belgian Pro League,Belgium,Europe
+FC Erzgebirge Aue,2. Bundesliga,Germany,Europe
+Raków Częstochowa,Ekstraklasa,Poland,Europe
+AC Ajaccio,Ligue 2,France,Europe
+Oceânico FC,Campeonato Brasileiro Série A,Brazil,South America
+SV Darmstadt 98,2. Bundesliga,Germany,Europe
+Bristol City,EFL Championship,England,Europe
+Atlético Tucumán,Primera División,Argentina,South America
+Oud-Heverlee Leuven,Belgian Pro League,Belgium,Europe
+Barnsley,EFL Championship,England,Europe
+Helsingborgs IF,Allsvenskan,Sweden,Europe
+Queens Park Rangers,EFL Championship,England,Europe
+SC Paderborn 07,2. Bundesliga,Germany,Europe
+FC St. Pauli,2. Bundesliga,Germany,Europe
+Mazatlán FC,Liga MX,Mexico,North America
+Al Hazem,Saudi Professional League,Saudi Arabia,Asia
+Club Atlético Talleres,Primera División,Argentina,South America
+Sangju Sangmu FC,K League 1,South Korea,Asia
+KV Kortrijk,Belgian Pro League,Belgium,Europe
+El Nacional,Serie A,Ecuador,South America
+Club Atlético Huracán,Primera División,Argentina,South America
+Aberdeen,Scottish Premiership,Scotland,Europe
+CD Mirandés,Segunda División,Spain,Europe
+SV Zulte-Waregem,Belgian Pro League,Belgium,Europe
+Piast Gliwice,Ekstraklasa,Poland,Europe
+Djurgårdens IF,Allsvenskan,Sweden,Europe
+Central Córdoba,Primera División,Argentina,South America
+Wellington Phoenix,A-League,Australia,Oceania
+Deportivo Binacional,Primera División,Peru,South America
+Patronato,Primera División,Argentina,South America
+SpVgg Greuther Fürth,2. Bundesliga,Germany,Europe
+IFK Göteborg,Allsvenskan,Sweden,Europe
+Santa Clara,Primeira Liga,Portugal,Europe
+FC Twente,Eredivisie,Netherlands,Europe
+Farense,Primeira Liga,Portugal,Europe
+ADO Den Haag,Eredivisie,Netherlands,Europe
+Hokkaido Consadole Sapporo,J1 League,Japan,Asia
+Valenciennes FC,Ligue 2,France,Europe
+AJ Auxerre,Ligue 2,France,Europe
+Unión La Calera,Primera División,Chile,South America
+CD Nacional,Primeira Liga,Portugal,Europe
+BB Erzurumspor,Süper Lig,Turkey,Europe
+Kashima Antlers,J1 League,Japan,Asia
+1. FC Kaiserslautern,3. Liga,Germany,Europe
+Al Fateh,Saudi Professional League,Saudi Arabia,Asia
+Albacete BP,Segunda División,Spain,Europe
+KV Mechelen,Belgian Pro League,Belgium,Europe
+FC Cartagena,Segunda División,Spain,Europe
+Al Fayha,Saudi Professional League,Saudi Arabia,Asia
+Incheon United FC,K League 1,South Korea,Asia
+Pohang Steelers,K League 1,South Korea,Asia
+HJK Helsinki,Veikkausliiga,Finland,Europe
+Arsenal de Sarandí,Primera División,Argentina,South America
+FC Zürich,Swiss Super League,Switzerland,Europe
+Karlsruher SC,2. Bundesliga,Germany,Europe
+Barcelona Sporting Club,Serie A,Ecuador,South America
+SG Dynamo Dresden,3. Liga,Germany,Europe
+Aarhus GF,Superliga,Denmark,Europe
+FC Viitorul,Liga I,Romania,Europe
+Al Raed,Saudi Professional League,Saudi Arabia,Asia
+Málaga CF,Segunda División,Spain,Europe
+Viktoria Köln,3. Liga,Germany,Europe
+SD Ponferradina,Segunda División,Spain,Europe
+IF Elfsborg,Allsvenskan,Sweden,Europe
+Gangwon FC,K League 1,South Korea,Asia
+Lechia Gdańsk,Ekstraklasa,Poland,Europe
+Brøndby IF,Superliga,Denmark,Europe
+Sanfrecce Hiroshima,J1 League,Japan,Asia
+SK Sturm Graz,Austrian Bundesliga,Austria,Europe
+Melgar FBC,Peruvian Primera División,Peru,South America
+VfL Osnabrück,2. Bundesliga,Germany,Europe
+Jagiellonia Białystok,Ekstraklasa,Poland,Europe
+Club Atlético Grau,Peruvian Primera División,Peru,South America
+Waasland-Beveren,Belgian Pro League,Belgium,Europe
+Nagoya Grampus,J1 League,Japan,Asia
+CF Fuenlabrada,Segunda División,Spain,Europe
+Vålerenga Fotball,Eliteserien,Norway,Europe
+Shimizu S-Pulse,J1 League,Japan,Asia
+RKC Waalwijk,Eredivisie,Netherlands,Europe
+Shamrock Rovers,League of Ireland Premier Division,Ireland,Europe
+Clermont Foot 63,Ligue 1,France,Europe
+FC Würzburger Kickers,3. Liga,Germany,Europe
+Górnik Zabrze,Ekstraklasa,Poland,Europe
+Beerschot AC,Belgian Pro League,Belgium,Europe
+Coquimbo Unido,Chilean Primera División,Chile,South America
+FC Ingolstadt 04,3. Liga,Germany,Europe
+Charlton Athletic,EFL League One,England,Europe
+Hull City,EFL League One,England,Europe
+VVV-Venlo,Eredivisie,Netherlands,Europe
+FC Nordsjælland,Superliga,Denmark,Europe
+UD Las Palmas,Segunda División,Spain,Europe
+GwangJu FC,K League 1,South Korea,Asia
+Chamois Niortais Football Club,Ligue 2,France,Europe
+Sparta Rotterdam,Eredivisie,Netherlands,Europe
+FC Lugano,Swiss Super League,Switzerland,Europe
+Cusco FC,Peruvian Primera División,Peru,South America
+Liverpool Fútbol Club,Primera División,Uruguay,South America
+Club Bolívar,Bolivian Primera División,Bolivia,South America
+PEC Zwolle,Eredivisie,Netherlands,Europe
+Le Havre AC,Ligue 2,France,Europe
+SSV Jahn Regensburg,2. Bundesliga,Germany,Europe
+Pogoń Szczecin,Ekstraklasa,Poland,Europe
+Doncaster Rovers,EFL League One,England,Europe
+SK Brann,Eliteserien,Norway,Europe
+Eintracht Braunschweig,3. Liga,Germany,Europe
+Kristiansund BK,Eliteserien,Norway,Europe
+Urawa Red Diamonds,J1 League,Japan,Asia
+Nacional Asunción,Primera División,Paraguay,South America
+Melbourne Victory,A-League,Australia,Oceania
+Kilmarnock,Scottish Premiership,Scotland,Europe
+Abha Club,Saudi Professional League,Saudi Arabia,Asia
+Dundalk,SSE Airtricity League Premier Division,Ireland,Europe
+SD Aucas,Serie A,Ecuador,South America
+Shonan Bellmare,J1 League,Japan,Asia
+Club Atlético Tigre,Primera División,Argentina,South America
+Suwon Samsung Bluewings,K League 1,South Korea,Asia
+Sol de América,Primera División,Paraguay,South America
+Emelec,Serie A,Ecuador,South America
+Fortuna Sittard,Eredivisie,Netherlands,Europe
+Śląsk Wrocław,Ekstraklasa,Poland,Europe
+Coventry City,EFL Championship,England,Europe
+Alianza Lima,Peruvian Primera División,Peru,South America
+La Berrichonne de Châteauroux,Ligue 2,France,Europe
+Hammarby IF,Allsvenskan,Sweden,Europe
+Cracovia,Ekstraklasa,Poland,Europe
+CE Sabadell FC,Segunda División,Spain,Europe
+Oita Trinita,J1 League,Japan,Asia
+Luton Town,EFL Championship,England,Europe
+IK Sirius,Allsvenskan,Sweden,Europe
+Sunderland,EFL League One,England,Europe
+BK Häcken,Allsvenskan,Sweden,Europe
+Macarthur FC,A-League,Australia,Oceania
+Zagłębie Lubin,Ekstraklasa,Poland,Europe
+Grenoble Foot 38,Ligue 2,France,Europe
+Gaz Metan Mediaş,Liga I,Romania,Europe
+Rodez Aveyron Football,Ligue 2,France,Europe
+Vegalta Sendai,J1 League,Japan,Asia
+SV Wehen Wiesbaden,3. Liga,Germany,Europe
+Audax Italiano,Chilean Primera División,Chile,South America
+Motherwell,Scottish Premiership,Scotland,Europe
+Portsmouth,EFL League One,England,Europe
+Always Ready,División Profesional,Bolivia,South America
+Hibernian,Scottish Premiership,Scotland,Europe
+FC Hermannstadt,Liga I,Romania,Europe
+AS Nancy Lorraine,Ligue 2,France,Europe
+Rotherham United,EFL Championship,England,Europe
+UD Logroñés,Segunda División,Spain,Europe
+FC Voluntari,Liga I,Romania,Europe
+Fleetwood Town,EFL League One,England,Europe
+Jorge Wilstermann,División Profesional,Bolivia,South America
+Odense Boldklub,Superliga,Denmark,Europe
+FC Botoşani,Liga I,Romania,Europe
+Milton Keynes Dons,EFL League One,England,Europe
+FC Sochaux-Montbéliard,Ligue 2,France,Europe
+MSV Duisburg,3. Liga,Germany,Europe
+River Plate Montevideo,Primera División,Uruguay,South America
+Delfín SC,Serie A,Ecuador,South America
+Deportivo Pasto,Categoría Primera A,Colombia,South America
+KV Oostende,Belgian Pro League,Belgium,Europe
+Club Plaza Colonia,Primera División,Uruguay,South America
+Universidad Católica del Ecuador,Serie A,Ecuador,South America
+Wigan Athletic,EFL League One,England,Europe
+Örebro SK,Allsvenskan,Sweden,Europe
+C.D. Castellón,Segunda División,Spain,Europe
+SCR Altach,Austrian Bundesliga,Austria,Europe
+TSV Hartberg,Austrian Bundesliga,Austria,Europe
+Stabæk Fotball,Eliteserien,Norway,Europe
+Oxford United,EFL League One,England,Europe
+Wycombe Wanderers,EFL League One,England,Europe
+Viking FK,Eliteserien,Norway,Europe
+Randers FC,Superliga,Denmark,Europe
+FC Chambly Oise,Ligue 2,France,Europe
+Oriente Petrolero,División Profesional,Bolivia,South America
+SpVgg Unterhaching,3. Liga,Germany,Europe
+Nacional Potosí,División Profesional,Bolivia,South America
+Dundee United,Scottish Premiership,Scotland,Europe
+Odds BK,Eliteserien,Norway,Europe
+Sepsi OSK,Liga I,Romania,Europe
+FC Hansa Rostock,3. Liga,Germany,Europe
+St. Johnstone FC,Scottish Premiership,Scotland,Europe
+Lincoln City,EFL League One,England,Europe
+Lyngby BK,Superliga,Denmark,Europe
+Seongnam FC,K League 1,South Korea,Asia
+Brisbane Roar,A-League,Australia,Oceania
+CD Huachipato,Chilean Primera División,Chile,South America
+Adelaide United,A-League,Australia,Oceania
+SV Ried,Austrian Bundesliga,Austria,Europe
+Podbeskidzie Bielsko-Biała,Ekstraklasa,Poland,Europe
+WSG Tirol,Austrian Bundesliga,Austria,Europe
+Club Blooming,División Profesional,Bolivia,South America
+Peterborough United,EFL League One,England,Europe
+Wisła Płock,Ekstraklasa,Poland,Europe
+Busan IPark,K League 1,South Korea,Asia
+FSV Zwickau,3. Liga,Germany,Europe
+Mjøndalen IF,Eliteserien,Norway,Europe
+Pau FC,Ligue 2,France,Europe
+Vejle Boldklub,Superliga,Denmark,Europe
+FC Lausanne-Sport,Swiss Super League,Switzerland,Europe
+Estudiantes de Mérida,Venezuelan Primera División,Venezuela,South America
+Sagan Tosu,J1 League,Japan,Asia
+SV Waldhof Mannheim,3. Liga,Germany,Europe
+IK Start,Eliteserien,Norway,Europe
+St. Mirren,Scottish Premiership,Scotland,Europe
+Sport Huancayo,Peruvian Primera División,Peru,South America
+Hallescher FC,3. Liga,Germany,Europe
+SKN St. Pölten,Austrian Bundesliga,Austria,Europe
+Kalmar FF,Allsvenskan,Sweden,Europe
+Sarpsborg 08 FF,Eliteserien,Norway,Europe
+Shrewsbury,EFL League One,England,Europe
+Ipswich Town,EFL League One,England,Europe
+Centro Atlético Fénix,Primera División,Uruguay,South America
+SV Meppen,3. Liga,Germany,Europe
+Stal Mielec,Ekstraklasa,Poland,Europe
+TSV 1860 München,3. Liga,Germany,Europe
+Newcastle Jets,A-League,Australia,Oceania
+Livingston FC,Scottish Premiership,Scotland,Europe
+Burton Albion,EFL League One,England,Europe
+AFC Wimbledon,EFL League One,England,Europe
+AC Mineros de Guayana,Venezuelan Primera División,Venezuela,South America
+Warta Poznań,Ekstraklasa,Poland,Europe
+Bristol Rovers,EFL League Two,England,Europe
+Bayern München II,3. Liga,Germany,Europe
+UTA Arad,Liga I,Romania,Europe
+USL Dunkerque,Ligue 2,France,Europe
+Östersunds FK,Allsvenskan,Sweden,Europe
+Politehnica Iaşi,Liga I,Romania,Europe
+Sportivo Luqueño,Paraguayan Primera División,Paraguay,South America
+Central Coast Mariners,A-League,Australia,Oceania
+Caracas FC,Venezuelan Primera División,Venezuela,South America
+Salford City,EFL League Two,England,Europe
+Al Adalah,Saudi Professional League,Saudi Arabia,Asia
+AC Horsens,Superliga,Denmark,Europe
+Crewe Alexandra,EFL League One,England,Europe
+Aalesunds FK,Eliteserien,Norway,Europe
+Chindia Târgovişte,Liga I,Romania,Europe
+Oldham Athletic,EFL League Two,England,Europe
+Blackpool,EFL League One,England,Europe
+Northampton Town,EFL League Two,England,Europe
+Yokohama FC,J1 League,Japan,Asia
+FK Haugesund,Eliteserien,Norway,Europe
+Plymouth Argyle,EFL League One,England,Europe
+KFC Uerdingen 05,Regionalliga West,Germany,Europe
+Cheltenham Town,EFL League One,England,Europe
+Forest Green Rovers,EFL League Two,England,Europe
+Mjällby AIF,Allsvenskan,Sweden,Europe
+Strømsgodset IF,Eliteserien,Norway,Europe
+Exeter City,EFL League Two,England,Europe
+Cambridge United,EFL League One,England,Europe
+Grimsby Town,EFL League Two,England,Europe
+FC Vaduz,Swiss Challenge League,Switzerland,Europe
+VfB Lübeck,3. Liga,Germany,Europe
+Türkgücü München,3. Liga,Germany,Europe
+Bradford City,EFL League Two,England,Europe
+1. FC Magdeburg,3. Liga,Germany,Europe
+Bolton Wanderers,EFL League Two,England,Europe
+FC Admira Wacker Mödling,Austrian Bundesliga,Austria,Europe
+Aragua FC,Venezuelan Primera División,Venezuela,South America
+Accrington Stanley,EFL League One,England,Europe
+Hamilton Academical FC,Scottish Premiership,Scotland,Europe
+Swindon Town,EFL League Two,England,Europe
+Carlisle United,EFL League Two,England,Europe
+FC Argeș,Liga I,Romania,Europe
+Port Vale,EFL League Two,England,Europe
+Academica Clinceni,Liga I,Romania,Europe
+Rochdale,EFL League Two,England,Europe
+Gillingham,EFL League One,England,Europe
+Tranmere Rovers,EFL League Two,England,Europe
+Southend United,EFL League Two,England,Europe
+1. FC Saarbrücken,3. Liga,Germany,Europe
+Colchester United,EFL League Two,England,Europe
+Mansfield Town,EFL League Two,England,Europe
+Falkenbergs FF,Allsvenskan,Sweden,Europe
+SC Verl,3. Liga,Germany,Europe
+Varbergs BoIS,Allsvenskan,Sweden,Europe
+Crawley Town,EFL League Two,England,Europe
+Sandefjord Fotball,Eliteserien,Norway,Europe
+Bohemian FC,League of Ireland Premier Division,Ireland,Europe
+Newport County,EFL League Two,England,Europe
+Ross County FC,Scottish Premiership,Scotland,Europe
+Barrow,EFL League Two,England,Europe
+Scunthorpe United,EFL League Two,England,Europe
+Morecambe,EFL League Two,England,Europe
+Walsall,EFL League Two,England,Europe
+Leyton Orient,EFL League Two,England,Europe
+Stevenage,EFL League Two,England,Europe
+Derry City,League of Ireland Premier Division,Ireland,Europe
+Llaneros de Guanare,Primera División,Venezuela,South America
+Sligo Rovers,League of Ireland Premier Division,Ireland,Europe
+Zamora FC,Venezuelan Primera División,Venezuela,South America
+St. Patrick's Athletic,League of Ireland Premier Division,Ireland,Europe
+Cork City,League of Ireland Premier Division,Ireland,Europe
+Shelbourne FC,League of Ireland Premier Division,Ireland,Europe
+Harrogate Town,EFL League Two,England,Europe
+Waterford FC,League of Ireland Premier Division,Ireland,Europe
+Finn Harps,League of Ireland Premier Division,Ireland,Europe
