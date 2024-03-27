@@ -5,7 +5,7 @@
 This repository contains Python code and data files for cleaning and visualizing FIFA 21 player data. The dataset includes various attributes of football players such as their personal information, physical attributes, skill ratings, contract details, and more.
 
 ### Title
-**Title:** FIFA 21 Player Data Cleaning and Visualization
+**Title:** FIFA 21 Player Dataset Data Cleaning and Visualization
 
 ### Description
 In this project, we have performed comprehensive data cleaning and exploratory data analysis (EDA) on FIFA 21 player data. The dataset was initially messy and required several steps to clean and prepare it for analysis. We also visualized key insights to gain a better understanding of the data.
